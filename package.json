@@ -1,7 +1,7 @@
 {
-  "name": "da_bridge",
+  "name": "gamebridge",
   "version": "0.1.0",
-  "homepage": "https://tphl6256TTT.github.io/da_bridge",
+  "homepage": "https://tphl6256TTT.github.io/gamebridge",
   "private": true,
   "scripts": {
     "dev": "vite",
